@@ -1,4 +1,4 @@
-#### <font>个人信息</font>
+#### <font color="#ccc">个人信息</font>
 
 #### 教育经历
 
