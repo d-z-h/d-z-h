@@ -1,18 +1,18 @@
-###### 个人信息
+###### About me
 ----
 
-###### 教育经历
+###### Education Experience
 ----
 
-###### 技能清单
+###### Work Experience
 ----
 
-###### 工作经历
-----
-
-###### 项目经历
+###### Project Experience
 ----
 
 
+###### Skills List
 ----
-###### 感谢阅读
+
+----
+### Thanks for reading
