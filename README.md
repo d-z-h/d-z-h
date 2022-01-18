@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @d-z-h
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 个人信息
 
-<!---
-d-z-h/d-z-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 教育经历
+
+## 技能清单
+
+## 工作经历
+
+## 项目经历
+
+
+## 感谢阅读
